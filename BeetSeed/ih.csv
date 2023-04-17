@@ -1,0 +1,16 @@
+1,6815E+12;397;GET;200;OK;IhorSporysh 1-1;text;true;;1272;133;1;1;https://jsonplaceholder.typicode.com/posts/1;393;0;353
+1,6815E+12;247;POST;201;Created;IhorSporysh 1-1;text;true;;1086;252;1;1;https://jsonplaceholder.typicode.com/posts;247;0;0
+1,6815E+12;252;PUT;200;OK;IhorSporysh 1-1;text;true;;951;265;1;1;https://jsonplaceholder.typicode.com/posts/1;252;0;0
+1,6815E+12;249;PATCH;200;OK;IhorSporysh 1-1;text;true;;1243;221;1;1;https://jsonplaceholder.typicode.com/posts/1;249;0;0
+1,6815E+12;241;DELETE;200;OK;IhorSporysh 1-1;text;true;;945;219;1;1;https://jsonplaceholder.typicode.com/posts/1;241;0;0
+1,6815E+12;38;GET;200;OK;IhorSporysh 1-1;text;true;;1278;133;1;1;https://jsonplaceholder.typicode.com/posts/1;38;0;0
+1,6815E+12;248;POST;201;Created;IhorSporysh 1-1;text;true;;1082;252;1;1;https://jsonplaceholder.typicode.com/posts;248;0;0
+1,6815E+12;241;PUT;200;OK;IhorSporysh 1-1;text;true;;961;265;1;1;https://jsonplaceholder.typicode.com/posts/1;241;0;0
+1,6815E+12;250;PATCH;200;OK;IhorSporysh 1-1;text;true;;1231;221;1;1;https://jsonplaceholder.typicode.com/posts/1;250;0;0
+1,6815E+12;244;DELETE;200;OK;IhorSporysh 1-1;text;true;;943;219;1;1;https://jsonplaceholder.typicode.com/posts/1;244;0;0
+1,6815E+12;36;GET;200;OK;IhorSporysh 1-1;text;true;;1268;133;1;1;https://jsonplaceholder.typicode.com/posts/1;36;0;0
+1,6815E+12;261;POST;201;Created;IhorSporysh 1-1;text;true;;1080;252;1;1;https://jsonplaceholder.typicode.com/posts;261;0;0
+1,6815E+12;243;PUT;200;OK;IhorSporysh 1-1;text;true;;951;265;1;1;https://jsonplaceholder.typicode.com/posts/1;243;0;0
+1,6815E+12;244;PATCH;200;OK;IhorSporysh 1-1;text;true;;1235;221;1;1;https://jsonplaceholder.typicode.com/posts/1;244;0;0
+1,6815E+12;245;DELETE;200;OK;IhorSporysh 1-1;text;true;;941;219;1;1;https://jsonplaceholder.typicode.com/posts/1;245;0;0
+1,6815E+12;245;DELETE;200;OK;IhorSporysh 1-1;text;true;;941;219;1;1;https://jsonplaceholder.typicode.com/posts/1;245;0;0
